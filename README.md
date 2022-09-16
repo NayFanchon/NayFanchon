@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nādia (nay-dia)
-- 👀 I’m interested in fitness, traveling, Marvel and DC (yes I love both) hehe.
-- 🌱 I’m currently learning DSA with zero to mastery.
+- 👀 I’m interested in fitness, traveling, all things nerdy.
+- 🌱 I’m always expanding my brain.
 - 💞️ I’m looking to collaborate on open source projects and grow my portfolio.
-- 📫 How to reach me naycodes@gmail.com
+- 📫 How to reach me twitter.com/nadiafanchon
 
 <!---
 NayFanchon/NayFanchon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
